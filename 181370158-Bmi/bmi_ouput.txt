@@ -1,0 +1,8 @@
+Ahmad, 28.12
+Zeeshan, 27.3
+Qasim, 28.03
+Usman, 28.77
+Shabbir, 28.44
+Fahad, 18.83
+Ali, 29.78
+Haris, 0.0
